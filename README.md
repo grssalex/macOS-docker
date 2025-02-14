@@ -13,7 +13,7 @@ Développé par **grssalex**.
 
 ## 🚀 Utilisation
 ```sh
-chmod 777 macOS-docker.sh
+chmod +x macOS-docker.sh
 ./macOS-docker.sh
 ```
 
